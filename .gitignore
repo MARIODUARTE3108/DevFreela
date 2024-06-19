@@ -1,0 +1,46 @@
+# Diretórios e arquivos do Visual Studio
+.vs/
+.vscode/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Diretórios e arquivos do ASP.NET Core
+bin/
+obj/
+out/
+*.dll
+*.exe
+*.log
+*.sql
+*.sqlite
+
+# Diretórios e arquivos de pacotes
+packages/
+node_modules/
+*.nupkg
+*.nuget
+*.tgz
+
+# Arquivos de publicação
+publish/
+wwwroot/
+
+# Arquivos de configuração do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de log
+*.log
+
+# Arquivos de configuração do ambiente
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Certificados
+*.pfx
+*.p12
